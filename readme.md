@@ -5,3 +5,8 @@
 + quadrato: quadrato di ogni numero pari (intero);
 * Obiettivo
 + Visualizzare il quadrato di ogni numero pari
+Algoritmo:
++ Utente: Inserisci un numero;
++ Input: stampa num;
+se i mod 2 == 0
++ stampa "quadrato = i^2";
